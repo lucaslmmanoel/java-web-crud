@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/lucas/Documents/jsp-servlet-crud/web/listar_contatos.jsp</file>
+            <file>file:/home/lucas/Documents/iesbProjects/WebApplMVC/src/java/br/iesb/poo2/mvc/CardapioController.java</file>
+            <file>file:/home/lucas/Documents/iesbProjects/WebApplMVC/web/cardapio/index.jsp</file>
+            <file>file:/home/lucas/Documents/iesbProjects/WebApplMVC/web/cardapio/proccess.jsp</file>
+            <file>file:/home/lucas/Documents/iesbProjects/WebApplMVC/web/cardapio/delete.jsp</file>
         </group>
     </open-files>
 </project-private>
